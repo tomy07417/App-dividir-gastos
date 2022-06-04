@@ -1,4 +1,4 @@
-##APP DE GASTOS
+## APP DE GASTOS
 ===
 
 ### Funcionamiento
