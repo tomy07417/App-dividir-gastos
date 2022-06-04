@@ -1,7 +1,8 @@
 # APP DE GASTOS
 
+Página de la app:
 ## https://tomy07417.github.io/app/app_gastos.html
-Página de la app
+
 
 ### Funcionamiento
 
